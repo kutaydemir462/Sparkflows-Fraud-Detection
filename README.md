@@ -2,6 +2,8 @@
 
 End-to-end **Credit Card Fraud Detection** project built on **Sparkflows**, combining **SMOTE balancing**, **Random Forest**, **XGBoost (H2O)**, and **SHAP explainability** to detect fraudulent transactions with high accuracy and interpretability.
 
+![Model Training H20 XGBoost](workflow_screenshots/model_training_h2o_xgboost.png)
+
 ---
 
 ## 📘 Project Overview
